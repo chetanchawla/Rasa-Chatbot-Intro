@@ -6,8 +6,15 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - joke
 
 responses:
+
+  utter_joke:
+  - text: "Nog Nog, who's there! Merry Christmas, it's Santa"
+  - text: "Hah! Title of your sex tape"
+
+
   utter_greet:
   - text: "Hey! How are you BROOOOOOO?"
 

@@ -55,3 +55,10 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:joke
+- make me laugh
+- make me smile
+- give me funny
+- tell me a joke
+- give me a good gag
